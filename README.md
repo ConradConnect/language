@@ -1,2 +1,2 @@
-# language de
+# languages
 Hello world
