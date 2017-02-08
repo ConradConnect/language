@@ -1,18 +1,16 @@
 provider,country,language,url
 Devolo,Germany,de,https://www.conrad.de/de/devolo-home-control-o2806098.html
-Fitbit,Germany,de,https://www.conrad.de/de/Search.html?search=fitbit
-Garmin,Germany,de,https://www.conrad.de/de/Search.html?search=Garmin
-Logitech Harmony,Germany,de,https://www.conrad.de/de/Search.html?search=logitech%20harmony
-Jawbone,Germany,de,https://www.conrad.de/de/Search.html?searchType=REGULAR&search=jawbone
-Lifx,Germany,de,https://www.conrad.de/de/Search.html?search=Lifx
-Mobile Alerts,Germany,de,https://www.conrad.de/de/Search.html?search=Mobile%20Alerts
-Myfox Home Control,Germany,de,https://www.conrad.de/de/Search.html?search=myfox&searchType=REGULAR
-Netatmo,Germany,de,https://www.conrad.de/de/Search.html?search=Netatmo
-Philips Hue,Germany,de,https://www.conrad.de/de/Search.html?search=Philips%20Hue
-Polar,Germany,de,https://www.conrad.de/de/Search.html?search=polar&searchType=REGULAR
-relayr,Germany,de,https://www.conrad.de/de/Search.html?search=%2310708
-Innogy,Germany,de,https://www.conrad.de/de/Search.html?search=Innogy%20smarthome
-Smappee,Germany,de,https://www.conrad.de/de/Search.html?search=Smappee
-Withings,Germany,de,https://www.conrad.de/de/Search.html?search=Withings
-Osram Lightify,Germany,de,https://www.conrad.de/de/Search.html?search=Osram%20Lightify
-Tado,Germany,de,https://www.conrad.de/de/brandlist/tado.html
+Fitbit,Germany,de,https://www.conrad.de/de/Search.html?search=fitbit%20conrad%20connect&searchType=REGULAR
+Garmin,Germany,de,https://www.conrad.de/de/Search.html?search=Garmin%20conrad%20connect&searchType=REGULAR
+Logitech Harmony,Germany,de,https://www.conrad.de/de/Search.html?search=logitech%20harmony%20conrad%20connect&searchType=REGULAR
+Jawbone,Germany,de,https://www.conrad.de/de/Search.html?search=jawbone%20conrad%20connect&searchType=REGULAR
+Mobile Alerts,Germany,de,https://www.conrad.de/de/Search.html?search=Mobile%20Alerts%20conrad%20connect&searchType=REGULAR
+Myfox Home Control,Germany,de,https://www.conrad.de/de/Search.html?search=myfox%20conrad%20connect&searchType=REGULAR
+Netatmo,Germany,de,https://www.conrad.de/de/Search.html?search=Netatmo%20conrad%20connect&searchType=REGULAR
+Philips Hue,Germany,de,https://www.conrad.de/de/Search.html?search=Philips%20Hue%20conrad%20connect&searchType=REGULAR
+Polar,Germany,de,https://www.conrad.de/de/Search.html?search=polar%20conrad%20connect&searchType=REGULAR
+Innogy,Germany,de,https://www.conrad.de/de/Search.html?search=Innogy%20smarthome%20conrad%20connect&searchType=REGULAR
+Smappee,Germany,de,https://www.conrad.de/de/Search.html?search=Smappee%20conrad%20connect&searchType=REGULAR
+Withings,Germany,de,https://www.conrad.de/de/Search.html?search=Withings%20conrad%20connect&searchType=REGULAR
+Osram Lightify,Germany,de,https://www.conrad.de/de/Search.html?search=Osram%20Lightify%20conrad%20connect&searchType=REGULAR
+Tado,Germany,de,https://www.conrad.de/de/Search.html?searchType=REGULAR&search=Tado%20conrad%20connect
